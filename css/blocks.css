@@ -77,9 +77,9 @@
         padding: 17px 40px; } }
 
 .c-primary {
-  color: #4cc2c0; }
+  color: #ff3333; }
   .c-primary .semicircle:after {
-    border-color: #4cc2c0; }
+    border-color: #ff3333; }
 
 .semicircle {
   display: block;
